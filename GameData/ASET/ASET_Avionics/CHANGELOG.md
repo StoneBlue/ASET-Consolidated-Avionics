@@ -2,6 +2,20 @@
 ASET Consolidated Avionics Pack by Alexustas, adopted by Stone Blue
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
+2023-04-13
+
+v3.0.1
+
+- Changes:
+
+  - Converted all pngs to dds
+  - fix missing "/" preceding a comment in ASET_HSI.cfg
+  - fix missing "/" preceding a comment in ASET_AIRCRAFT_ENGINE_TempGauge.cfg
+  - fix missing "/" preceding a comment in ASET_AIRCRAFT_INT_TempGauge.cfg
+  - fix missing "/" preceding a comment in ASET_AIRCRAFT_SKIN_TempGauge.cfg
+  - fix copy/paste error, leaving incorrect, open PROP node & name in ASET_B-Knob_LD-CP_LEFT.cfg
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
 2023-02-11
 
 v3.0.0
